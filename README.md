@@ -17,7 +17,7 @@ pip install selenium webdriver-manager pandas beautifulsoup4 openpyxl
 ## How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/Harsh10022004/LinkedIn_Scrapper_HVS
+git clone https://github.com/Harsh10022004/LinkedIn_Scrapper_HVS.git
 cd LinkedIn_Scrapper_HVS
 ```
 
